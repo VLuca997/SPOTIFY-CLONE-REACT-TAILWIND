@@ -117,7 +117,7 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "canzone triste perche mi fa lame il sentimentooo",
         image: img1,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
